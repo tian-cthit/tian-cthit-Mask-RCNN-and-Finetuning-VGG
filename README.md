@@ -16,3 +16,4 @@ Here is one example of a pair of images and segmentation masks:
 
 ![example](https://github.com/tian-cthit/tian-cthit-Mask-RCNN-and-Finetuning-VGG16/blob/main/Mask-RCNN/figures/tv_image01.png)
 
+![example](https://github.com/tian-cthit/tian-cthit-Mask-RCNN-and-Finetuning-VGG16/blob/main/Mask-RCNN/figures/tv_image02.png)
