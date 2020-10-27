@@ -1,4 +1,4 @@
-# tian-cthit-Mask-RCNN-and-Finetuning-VGG16
+# tian-cthit-Mask-RCNN-and-Finetuning-VGG
 
 This repository includes implementation of Mash-RCNN and Finetuning of clissfication networks such as [VGG11](https://arxiv.org/pdf/1409.1556.pdf). The code is developed based on [Pytorch official tutorials](https://pytorch.org/tutorials/)
 
